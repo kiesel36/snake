@@ -1,0 +1,2 @@
+snake=(0,0)
+print(snake)
